@@ -6,7 +6,7 @@
 #include <vector>
 using namespace std;
 
-Zadatak 1. Paketi u sortirnici
+//Zadatak 1. Paketi u sortirnici
 int brojPaketa(int mase[], int N, int L, int D) {
 	int dobripaketi = 0;
 	for (int i = 0; i < N; i++) {
@@ -38,7 +38,7 @@ int main()
 	
 }
 	
-Zadatak 2. Senzori nakon oluje
+//Zadatak 2. Senzori nakon oluje
 void ispraviMjerenja(int a[], int n) {
 	for (int i = 0; i < n; i++) {
 		if (a[i] < 0) {
