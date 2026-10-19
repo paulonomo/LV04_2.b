@@ -65,6 +65,7 @@ int main()
 
 }
 
+// Zadatak 3. Pametni staklenik
 int brojIznadPraga(int temp[][6], int redak, int P) {
 	int brojiznad = 0;
 	for (int i = 0; i < 6;i++) {
